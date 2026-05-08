@@ -53,19 +53,7 @@ I'm a **Software Engineering student** from Barranquilla, Colombia 🇨🇴, pas
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=RafaelJuniorGutierrezBernal&show_icons=true&theme=dark&bg_color=171614&title_color=4f98a3&icon_color=4f98a3&text_color=cdccca&border_color=393836&hide_border=false&count_private=true" />
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelJuniorGutierrezBernal&layout=compact&theme=dark&bg_color=171614&title_color=4f98a3&text_color=cdccca&border_color=393836" />
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
