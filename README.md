@@ -1,73 +1,77 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=200&section=header&text=Rafael%20Junior%20Gutierrez&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Software%20Engineering%20Student&descAlignY=58&descSize=16" />
+# Hi, I'm Rafael Gutiérrez 👋
+
+### Backend Java Developer · Spring Boot · REST APIs · PostgreSQL
+
+Software Engineering student (7th semester) at Corporación Universitaria Iberoamericana · Freelance web developer for local businesses · Barranquilla, Colombia 🇨🇴
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-junior-six.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-junior-gutierrez-bernal-03740a2b4)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafas8921@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About me
 
-I'm a **Software Engineering student** from Barranquilla, Colombia 🇨🇴, passionate about backend development and building solid, scalable systems. I have **3+ years of Java experience** with a strong foundation in OOP, REST APIs, and relational databases.
-
-- 🔭 Currently working on **full-stack and backend projects**
-- 🌱 Deepening my skills in **Spring Boot**, **Angular**, and **system design**
-- 💼 Open to **entry-level backend / full-stack opportunities**
-- 📫 Reach me at: **rafas8921@gmail.com**
-- 🌐 Portfolio: [portfolio-junior-six.vercel.app](https://portfolio-junior-six.vercel.app/)
-- 💼 LinkedIn: [linkedin.com/in/rafael-junior-gutierrez-bernal-03740a2b4](https://www.linkedin.com/in/rafael-junior-gutierrez-bernal-03740a2b4)
+- 🔧 I build **secure REST APIs** with Java 17 and Spring Boot: layered architecture, OAuth2/JWT with Keycloak, JPA/Hibernate and PostgreSQL.
+- 🌐 For the past year and a half I've been building and deploying **websites for local businesses** as a freelancer — from gathering requirements with the client to deployment and support.
+- 🎯 Currently looking for a **Junior Java / Backend Developer** role (remote, hybrid or on-site).
+- 📚 Learning: microservices, testing (JUnit/Mockito), Docker and CI/CD.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured projects
 
-**Languages**
+| Project | What it is | Stack |
+|---|---|---|
+| 🚗 [vehicle-managment-api](https://github.com/RafaelJuniorGutierrezBernal/vehicle-managment-api) | Secure REST API for vehicle & sales management with role-based access (USER / ADMIN) | Java 17, Spring Boot 3, Spring Security, OAuth2/JWT, Keycloak, JPA, PostgreSQL, Swagger |
+| 🚨 [emergency_system](https://github.com/RafaelJuniorGutierrezBernal/emergency_system) | Incident, resource & report management app with admin panel and role permissions | Java, Spring Boot, Spring Security, JPA/Hibernate, PostgreSQL |
+| 🏋️ [landing-megafit](https://github.com/RafaelJuniorGutierrezBernal/landing-megafit) · [live](https://landing-megafit.vercel.app) | Freelance client project: landing page for a gym | TypeScript, Vercel |
+| 🦷 [Landing](https://github.com/RafaelJuniorGutierrezBernal/Landing) · [live](https://landing-page-smile.vercel.app) | Freelance client project: landing page for a dental clinic | TypeScript, Vercel |
+| 🌐 [Portfolio](https://github.com/RafaelJuniorGutierrezBernal/Portfolio) · [live](https://portfolio-junior-six.vercel.app) | My personal developer portfolio | HTML, CSS, JavaScript |
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+---
+
+## 🛠️ Tech stack
 
 **Backend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Frontend**
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & DevOps**
+**Web / Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & testing**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [🛒 fullstack-ecommerce](https://github.com/RafaelJuniorGutierrezBernal/fullstack-ecommerce) | Full-stack e-commerce application | CSS, JavaScript |
-| [📚 SistemaGestionBiblioteca](https://github.com/RafaelJuniorGutierrezBernal/SistemaGestionBiblioteca) | Library management system | Java, Spring Boot |
-| [🚗 vehicle-management-api](https://github.com/RafaelJuniorGutierrezBernal/vehicle-managment-api) | REST API for vehicle management | TypeScript |
-| [🌐 Portfolio](https://github.com/RafaelJuniorGutierrezBernal/Portfolio) | Personal developer portfolio | CSS |
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
 <div align="center">
 
-*Thanks for visiting my profile! Feel free to reach out for collaborations or opportunities.*
+*Thanks for visiting! Open to Junior Java / Backend opportunities — feel free to reach out.* 📩
 
 </div>
