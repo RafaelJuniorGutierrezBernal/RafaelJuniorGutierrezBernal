@@ -4,7 +4,7 @@
 
 ### Backend Java Developer · Spring Boot · REST APIs · PostgreSQL
 
-Software Engineering student (7th semester) at Corporación Universitaria Iberoamericana · Freelance web developer for local businesses · Barranquilla, Colombia
+Software Engineering student at Corporación Universitaria Iberoamericana · Freelance web developer for local businesses · Barranquilla, Colombia
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-junior-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-junior-gutierrez-bernal-03740a2b4)
@@ -17,7 +17,7 @@ Software Engineering student (7th semester) at Corporación Universitaria Iberoa
 ## About me
 
 - I build secure REST APIs with Java 17 and Spring Boot: layered architecture, OAuth2/JWT with Keycloak, JPA/Hibernate and PostgreSQL.
-- For the past year and a half I've been building and deploying websites for local businesses as a freelancer, from gathering requirements with the client to deployment and support.
+- As a freelancer, I build and deploy websites for local businesses, from gathering requirements with the client to deployment and support.
 - Currently looking for a Junior Java / Backend Developer role (remote, hybrid or on-site).
 - Learning: microservices, testing (JUnit/Mockito), Docker and CI/CD.
 
